@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Blaster2036
+- 👋 Hi, I’m Ángel Peña
 - 👀 I’m interested in Automation with python and crazy prodyects
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Automation projects
-- 📫 How to reach me void.the.loop@gmail.com
+- 📫 How to reach me angeldiegodg@gmail.com
 
 <!---
 Blaster2036/Blaster2036 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
